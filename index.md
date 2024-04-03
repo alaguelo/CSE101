@@ -1,7 +1,6 @@
 # Welcome to my User Page!
 ## My name is **Altair Aguelo.**
 ###  *I am a second year CS major and aspiring software engineer. Thanks for checking out my page!* 
-If you want to contact me, [click here!](###links-to-my-other-social-media)
 ### A quote I live by: 
 > I am a man of fortune, and I must seek my fortune. -Captain Henry Avery
 
