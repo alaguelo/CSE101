@@ -28,7 +28,7 @@ git add
 2. Video games
 3. Movies
 ### My dog motivates me, so here is a picture of her for reference
-![![IMG-1498.jpg](https://i.postimg.cc/ZqyVtn7c/IMG-1498.jpg)](https://postimg.cc/06Pp7kqM)
+![dog](https://www.google.com/imgres?q=jack%20russell%20terrier&imgurl=https%3A%2F%2Fdoggoneproblems.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fhuxley.jpg&imgrefurl=https%3A%2F%2Fwww.doggoneproblems.com%2Fhuxley%2F&docid=JvuXd2rBV7qN9M&tbnid=t3BedtBOmiWibM&vet=12ahUKEwjChI6t_qaFAxULl-4BHdcXDHIQM3oECDMQAA..i&w=4032&h=3024&hcb=2&ved=2ahUKEwjChI6t_qaFAxULl-4BHdcXDHIQM3oECDMQAA)
 
 ### Tasks for this lab:
 - [x] Installing Visual Studio Code and Extensions
