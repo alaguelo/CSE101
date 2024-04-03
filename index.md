@@ -28,7 +28,7 @@ git add
 2. Video games
 3. Movies
 ### My dog motivates me, so here is a picture of her for reference
-![Picture of my dog](file:///Users/altairlanceaguelo/Downloads/UC%20San%20Diego%20Mail%20-%20Cooks.pdf)
+![Picture of my dog](https://drive.google.com/file/d/1u6FfQKXsdhd7MKEPxNPmjlFMr5f1ik5R/view?usp=sharing)
 
 ### Tasks for this lab:
 - [x] Installing Visual Studio Code and Extensions
